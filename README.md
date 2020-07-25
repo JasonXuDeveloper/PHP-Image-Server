@@ -3,6 +3,7 @@ An Image Server system base on PHP which allows save &amp; delete images between
 > Will be completed soon as possible
 
 ## Features
+- RESTFUL API
 - Stores images from request from any server to the image server
 - Deletes images with password from any server to the image server
 - Shortern images' names (Requires MySQL)
