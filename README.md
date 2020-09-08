@@ -1,5 +1,6 @@
 # PHP-Image-Server
 An Image Server system base on PHP which allows save &amp; delete images between servers
+PHP图片资源服务器，支持远程获取/增加/删除图片
 > Will be completed soon as possible
 
 ## Features
